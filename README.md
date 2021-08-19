@@ -3,6 +3,6 @@ iTrust2 is an electronics health records system (EHR) that provides patients wit
 ## Technical Info
 iTrust2 is written with Java EE and JavaScript.  It uses Spring to handle the backend and AngularJS on the frontend (currently AngularJS v1.6; work is underway to migrate to AngularJS v7) and runs with a MySQL/MariaDB database.  Testing is performed using Spring for the API and a combination of [Cucumber](https://cucumber.io/docs) and [Selenium](https://www.seleniumhq.org/) on the frontend.  
 
-Setup instructions are located in the Developer's Guide in the Wiki.
+Setup instructions are located in the Developer's Guide in the docs.
 
 
